@@ -5,6 +5,30 @@
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io)
 [![Gemini](https://img.shields.io/badge/Powered%20by-Gemini%20AI-4285F4?logo=google)](https://ai.google.dev)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python)](https://python.org)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-▶%20Try%20Now-00C896?logo=streamlit)](https://my-visual-novel.streamlit.app/)
+
+---
+
+## 🎬 Demo Video
+
+<!-- ADD YOUR VIDEO HERE — replace the line below with your video embed or link -->
+> 📹 **Video coming soon** — upload your screen recording and paste the link here.
+
+<!-- Example for YouTube embed:
+[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+-->
+
+<!-- Example for direct MP4 (GitHub supports this):
+https://github.com/shrutiiagarwall/MirAI-Summer-Internship/assets/YOUR_ASSET_ID/your-video.mp4
+-->
+
+---
+
+## 🌐 Live Demo
+
+🚀 **Try it now (no setup needed):** [my-visual-novel.streamlit.app](https://my-visual-novel.streamlit.app/)
+
+> 💡 **No API key?** Enable **Demo Mode** in the sidebar — the app runs fully offline with pre-written story scenes, no Gemini key required. Perfect for a quick look without any configuration.
 
 ---
 
