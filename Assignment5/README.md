@@ -11,16 +11,7 @@
 
 ## 🎬 Demo Video
 
-<!-- ADD YOUR VIDEO HERE — replace the line below with your video embed or link -->
-> 📹 **Video coming soon** — upload your screen recording and paste the link here.
-
-<!-- Example for YouTube embed:
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
--->
-
-<!-- Example for direct MP4 (GitHub supports this):
-https://github.com/shrutiiagarwall/MirAI-Summer-Internship/assets/YOUR_ASSET_ID/your-video.mp4
--->
+https://github.com/user-attachments/assets/d04a3306-985f-432c-858b-cdbfca5f0e4d
 
 ---
 
