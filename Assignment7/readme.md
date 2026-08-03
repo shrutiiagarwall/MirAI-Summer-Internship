@@ -6,6 +6,12 @@ A Streamlit dashboard that visualizes 14-day screen time data and uses the Gemin
 
 ---
 
+## 🔗 Live App
+
+**[https://life-os-shruti.streamlit.app](https://my-life-os.streamlit.app/?date=2026-08-02&total=350)**
+
+---
+
 ## 🎥 Demo Video
 
 https://github.com/user-attachments/assets/b2cfb7bb-c594-4269-894d-dcc8f806c678
