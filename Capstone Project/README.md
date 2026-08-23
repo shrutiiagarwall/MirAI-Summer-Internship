@@ -11,9 +11,18 @@
 
 ---
 
+**🔗 Live Application:**  
+👉 **https://life-os-dashboard-iq20.onrender.com**
+
+[![Open Live Demo](https://img.shields.io/badge/🚀%20Open%20Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://mirai-summer-internship.onrender.com)
+
+> **Note:** The application is hosted on Render's free tier. The service may take a few seconds to wake up if it has been inactive.
+
+---
+
 ## 🎥 Demo Video
 
-> _[Add your demo video link or embed here]_
+https://github.com/user-attachments/assets/c763d346-7a25-454a-ba85-7b451ee1d088
 
 ---
 
@@ -34,21 +43,33 @@
 
 ## 📸 Screenshots
 
-<!-- Add dashboard screenshot here -->
-![Dashboard](screenshots/dashboard.png)
+### 🏠 Dashboard
 
-<!-- Add coaching response screenshot here -->
-![AI Coaching](screenshots/coaching.png)
+<p align="center">
+  <img src="screenshots/dashboard.jpeg" width="600">
+</p>
 
-<!-- Add PDF export screenshot here -->
-![PDF Export](screenshots/pdf_export.png)
+**Dashboard:** Provides an overview of screen time, Life Score, daily trends, top apps, and productivity metrics.
 
 ---
 
-## 🎥 Demo Video
+### 🤖 AI Coaching
 
-<!-- Add a working demo video here (e.g. a GitHub-hosted mp4, or a Loom/YouTube link)
-     showing the full app flow: dashboard load, coaching request, voice journal, PDF export -->
+<p align="center">
+  <img src="screenshots/ai.jpeg" width="600">
+</p>
+
+**AI Coaching:** Uses Gemini to analyze screen-time behavior and provide personalized, actionable accountability advice.
+
+---
+
+### 📄 Weekly Roast PDF
+
+<p align="center">
+  <img src="screenshots/pdf.jpeg" width="600">
+</p>
+
+**PDF Export:** Generates a personalized weekly roast report containing screen-time insights, achievements, and improvement suggestions.
 
 ---
 
@@ -200,4 +221,4 @@ MIT — hack freely, stay accountable.
 
 ---
 
-*Built for the Mirai School of Technology Summer Internship Capstone — Assignment 7*
+*Built for the Mirai School of Technology Summer Internship Capstone Project*
