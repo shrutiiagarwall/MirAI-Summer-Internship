@@ -9,6 +9,7 @@
 ╚══════╝╚═╝╚═╝     ╚══════╝       ╚═════╝ ╚══════╝
 
            P R O D U C T I V I T Y   C O M M A N D   C E N T E R
+           an AI accountability coach for your screen time
 ```
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.37%2B-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
